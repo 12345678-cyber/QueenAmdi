@@ -25,7 +25,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
 ### Deploy OLD v3 Queen Amdi Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/12345678-cyber/QueenAmdi-v3)
 </div>
 
 ----
@@ -74,7 +74,7 @@
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94757405652">
+  <a href="https://wa.me/918979156884">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
 
   </a>
